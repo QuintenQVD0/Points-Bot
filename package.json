@@ -1,0 +1,22 @@
+{
+  "name": "Points-Bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "Points Bot",
+    "Discord bot",
+    "points system",
+    "discord"
+  ],
+  "author": "ᴰᵉᵛ𝓦𝓪𝓵𝓴𝓮𝓻4𝓮𝓿𝓮𝓻#6969",
+  "license": "ISC",
+  "dependencies": {
+    "dbd.js": "^3.0.7",
+    "fs": "0.0.1-security"
+  }
+}
