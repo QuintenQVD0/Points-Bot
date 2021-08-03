@@ -5,7 +5,7 @@ module.exports = {
 $description[<@$mentioned[1]> has $getGlobalUserVar[points;$mentioned[1]] Points!]
 
 
-$argsCheck[1;To Use: \`$getServerVar[prefix]points <@user> \`]]
+$argsCheck[1;To Use: \`$getServerVar[prefix]points <@user> \`]
 $color[$random[0;999999]]
 
 
