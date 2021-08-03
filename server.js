@@ -41,7 +41,7 @@ code: `$title[$userTag[$clientID] HELP MENU]
 
 $description[**$getServerVar[prefix]help** - This!
 **$getServerVar[prefix]give**- Give someone Points
-**$getServerVar[prefix]chkp**- Checks your Points
+**$getServerVar[prefix]checkpoints**- Checks your Points
 **$getServerVar[prefix]remove**- Remove someone's Points]
 
 $color[RANDOM]
