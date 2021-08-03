@@ -40,8 +40,9 @@ name: "help",
 code: `$title[$userTag[$clientID] HELP MENU]
 
 $description[**$getServerVar[prefix]help** - This!
-**$getServerVar[prefix]give**- Give Points
-**$getServerVar[prefix]chkp**- Checks your Points ]
+**$getServerVar[prefix]give**- Give someone Points
+**$getServerVar[prefix]chkp**- Checks your Points
+**$getServerVar[prefix]remove**- Remove someone's Points]
 
 $color[RANDOM]
 $footer[SOURCE CODE FROM CREATED BY ᴰᵉᵛ𝓦𝓪𝓵𝓴𝓮𝓻4𝓮𝓿𝓮𝓻#6969]
