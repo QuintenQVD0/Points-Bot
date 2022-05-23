@@ -18,6 +18,5 @@ A Discord Points Bot Made For Owners of Servers To Manage Their Servers With Coo
 This bot is only for **INDIVISUAL SERVERS!**
 
 # More
-Join My Support Server: https://discord.gg/uX2mBpqguP
 
-Made With Love By **Bumblebee#1447**! Dm me if facing any issues...
+Made With Love By **Bumblebee a.k.a. Blurr**! Dm me if facing any issues...
