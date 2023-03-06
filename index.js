@@ -17,7 +17,7 @@ bot.onMessage()
 
 //variable
 bot.variables({
- prefix: ".",//Your Prefix
+ prefix: "!",//Your Prefix
  points:"0",//dont change this!!
 
 })
@@ -32,6 +32,11 @@ aliases: command.aliases,
 code: command.code
   })
 }
+
+bot.command({
+  name: "slash",
+  code: `$createSlashCommand[$guildID;version;Returns DBD.js Version]`
+})
 
 //help command here
 bot.command({
